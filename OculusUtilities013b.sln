@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2DDF3C1B-5B88-DBAC-ED54-F1E12844E9D7}") = "OculusUtilities013b", "Assembly-CSharp.csproj", "{F8F911F3-8A82-F967-5F58-C3836DC5428F}"
+EndProject
+Project("{2DDF3C1B-5B88-DBAC-ED54-F1E12844E9D7}") = "OculusUtilities013b", "Assembly-CSharp-Editor.csproj", "{F46A0D90-7F53-3967-26D4-666B15B17B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F911F3-8A82-F967-5F58-C3836DC5428F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F911F3-8A82-F967-5F58-C3836DC5428F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F911F3-8A82-F967-5F58-C3836DC5428F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F911F3-8A82-F967-5F58-C3836DC5428F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46A0D90-7F53-3967-26D4-666B15B17B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46A0D90-7F53-3967-26D4-666B15B17B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46A0D90-7F53-3967-26D4-666B15B17B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46A0D90-7F53-3967-26D4-666B15B17B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
